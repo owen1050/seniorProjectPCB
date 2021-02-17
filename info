@@ -1,0 +1,663 @@
+{
+  "uuid": "eade5ec70404a2e26295ee6e1e4bd0a4",
+  "path": "Offline/SeniorDesignV2",
+  "name": "SeniorDesignV2",
+  "content": "",
+  "created_at": "2020-10-15 10:24:45",
+  "updated_at": "2021-02-12 13:42:03",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9a5c695fa67140a74d7a4142fd6bcb9b",
+      "title": "LogicSch",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5cbe824183374fac8e4c1ae848199ce3": 2,
+        "b0248eb51e084227889f2cb84eab79c4": 10,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 2,
+        "24eeb2ceca08480b92b847b6a310acda": 2,
+        "5a6a35b7dbba4d379b4a3abea7b9a54b": 1,
+        "28b2e04ad4c6446aa4f379f60b8e626f": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "CD4051BE_C507164",
+          1,
+          "DIP-16_L20.0-W6.4-P2.54-LS7.6-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C507164",
+            "BOM_Manufacturer": "HGSEMI",
+            "BOM_Manufacturer Part": "CD4051BE",
+            "puuid": "f2561f0fa47346d3a02d341f9e29ef9e",
+            "uuid": "5a6a35b7dbba4d379b4a3abea7b9a54b"
+          }
+        ],
+        [
+          "IRLed1",
+          2,
+          "LED0603_RED",
+          "LED1,LED2",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "0.1u",
+          2,
+          "C0603",
+          "C3,C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "2n3904",
+          2,
+          "3904",
+          "Q3,Q2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "ea466bad1d134ea0befadc009eb93930",
+            "uuid": "28b2e04ad4c6446aa4f379f60b8e626f"
+          }
+        ],
+        [
+          "100k",
+          3,
+          "R0603",
+          "R10,R3,R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "2M",
+          2,
+          "R0603",
+          "R11,R12",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "100",
+          2,
+          "R0603",
+          "R1,R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R4,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "300k",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "PhotoDiode",
+          2,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D6,D5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "8d946c7f61b247e5a163a1477fd9299f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "IRM-03-5",
+          1,
+          "IRM-03-5V",
+          "P1",
+          {
+            "BOM_Название": "IRM-03-5",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4259317ab6fb4dcf9438330b368ab7b9",
+            "uuid": "4e3a84d1e9e24527b1d63c3079b6ddf8"
+          }
+        ],
+        [
+          "powerLed",
+          1,
+          "LED0603_RED",
+          "LED3",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "2n3904",
+          1,
+          "3904",
+          "Q1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "ea466bad1d134ea0befadc009eb93930",
+            "uuid": "28b2e04ad4c6446aa4f379f60b8e626f"
+          }
+        ],
+        [
+          "1N4148",
+          1,
+          "DO-35_BD2.0-L4.0-P8.00-D0.5-FD",
+          "D4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "1N4148",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Supplier Part": "C14516",
+            "puuid": "07f65a035ec440c9ba8d8743498f47ca",
+            "uuid": "6004427743dbdd555d6b794af143fe13"
+          }
+        ],
+        [
+          "2CZ4007",
+          1,
+          "SOD-123_L2.7-W1.6-LS3.7-RD",
+          "D3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "CJ",
+            "BOM_Manufacturer Part": "2CZ4007",
+            "BOM_Supplier Part": "C85712",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "4cef2e03f0154245bc16473c593bf1d8",
+            "uuid": "ab92fb3718e54d80b6e72297c004500d"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "220",
+          1,
+          "R0603",
+          "R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "JQX-15F",
+          1,
+          "JQX-15F SDPT RELAY",
+          "RELAY1",
+          {
+            "BOM_Supplier Part": "C3631",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "HF",
+            "BOM_Manufacturer Part": "JQX-105F-1/012D-1HS",
+            "puuid": "ada22beab79b4acc9e20c31b4c7f6612",
+            "uuid": "d6eee429a6a048c2b3dfb178b4383eff"
+          }
+        ]
+      ],
+      "updateTime": 1602781225,
+      "createTime": 1600974423,
+      "histories": [],
+      "created_at": "2020-09-24 15:07:03",
+      "updated_at": "2020-10-15 13:00:25"
+    },
+    {
+      "uuid": "cbf4ba015d2ce646d112314724cfaf4d",
+      "title": "PowerSch",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4e3a84d1e9e24527b1d63c3079b6ddf8": 1,
+        "ab92fb3718e54d80b6e72297c004500d": 1,
+        "6004427743dbdd555d6b794af143fe13": 1,
+        "d6eee429a6a048c2b3dfb178b4383eff": 1,
+        "28b2e04ad4c6446aa4f379f60b8e626f": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 2,
+        "5cbe824183374fac8e4c1ae848199ce3": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "CD4051BE_C507164",
+          1,
+          "DIP-16_L20.0-W6.4-P2.54-LS7.6-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C507164",
+            "BOM_Manufacturer": "HGSEMI",
+            "BOM_Manufacturer Part": "CD4051BE",
+            "puuid": "f2561f0fa47346d3a02d341f9e29ef9e",
+            "uuid": "5a6a35b7dbba4d379b4a3abea7b9a54b"
+          }
+        ],
+        [
+          "IRLed1",
+          2,
+          "LED0603_RED",
+          "LED1,LED2",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "0.1u",
+          2,
+          "C0603",
+          "C3,C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "2n3904",
+          2,
+          "3904",
+          "Q3,Q2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "ea466bad1d134ea0befadc009eb93930",
+            "uuid": "28b2e04ad4c6446aa4f379f60b8e626f"
+          }
+        ],
+        [
+          "100k",
+          3,
+          "R0603",
+          "R10,R3,R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "2M",
+          2,
+          "R0603",
+          "R11,R12",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "100",
+          2,
+          "R0603",
+          "R1,R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R4,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "300k",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "PhotoDiode",
+          2,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D6,D5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "8d946c7f61b247e5a163a1477fd9299f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "IRM-03-5",
+          1,
+          "IRM-03-5V",
+          "P1",
+          {
+            "BOM_Название": "IRM-03-5",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4259317ab6fb4dcf9438330b368ab7b9",
+            "uuid": "4e3a84d1e9e24527b1d63c3079b6ddf8"
+          }
+        ],
+        [
+          "powerLed",
+          1,
+          "LED0603_RED",
+          "LED3",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "2n3904",
+          1,
+          "3904",
+          "Q1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "ea466bad1d134ea0befadc009eb93930",
+            "uuid": "28b2e04ad4c6446aa4f379f60b8e626f"
+          }
+        ],
+        [
+          "1N4148",
+          1,
+          "DO-35_BD2.0-L4.0-P8.00-D0.5-FD",
+          "D4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "1N4148",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Supplier Part": "C14516",
+            "puuid": "07f65a035ec440c9ba8d8743498f47ca",
+            "uuid": "6004427743dbdd555d6b794af143fe13"
+          }
+        ],
+        [
+          "2CZ4007",
+          1,
+          "SOD-123_L2.7-W1.6-LS3.7-RD",
+          "D3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "CJ",
+            "BOM_Manufacturer Part": "2CZ4007",
+            "BOM_Supplier Part": "C85712",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "4cef2e03f0154245bc16473c593bf1d8",
+            "uuid": "ab92fb3718e54d80b6e72297c004500d"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "220",
+          1,
+          "R0603",
+          "R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "JQX-15F",
+          1,
+          "JQX-15F SDPT RELAY",
+          "RELAY1",
+          {
+            "BOM_Supplier Part": "C3631",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "HF",
+            "BOM_Manufacturer Part": "JQX-105F-1/012D-1HS",
+            "puuid": "ada22beab79b4acc9e20c31b4c7f6612",
+            "uuid": "d6eee429a6a048c2b3dfb178b4383eff"
+          }
+        ]
+      ],
+      "updateTime": 1602781225,
+      "createTime": 1600974563,
+      "histories": [],
+      "created_at": "2020-09-24 15:09:23",
+      "updated_at": "2020-10-15 13:00:25"
+    },
+    {
+      "uuid": "7a1831b3d3ef32ee99a93a0de24d1633",
+      "title": "ledPCB",
+      "filename": "ledPCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1a9b494b74c34d3b879eb7f824b3824d": 2
+      },
+      "BOM": [],
+      "updateTime": 1611090485,
+      "createTime": 1601989771,
+      "histories": [],
+      "created_at": "2020-10-06 09:09:31",
+      "updated_at": "2021-01-19 16:08:05"
+    },
+    {
+      "uuid": "2e21222421a27184a019585371846fad",
+      "title": "powerPCB",
+      "filename": "powerPCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f9b6c4acbda64b569861a21e133c291c": 1,
+        "6a8cc0d167d04926a8ac5a757ba65780": 1
+      },
+      "BOM": [],
+      "updateTime": 1611701595,
+      "createTime": 1601990197,
+      "histories": [],
+      "created_at": "2020-10-06 09:16:37",
+      "updated_at": "2021-01-26 17:53:15"
+    },
+    {
+      "uuid": "17ceff460bc9ce84127aae15fa1e108e",
+      "title": "basePCB",
+      "filename": "basePCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [],
+      "updateTime": 1601992640,
+      "createTime": 1601992173,
+      "histories": [],
+      "created_at": "2020-10-06 09:49:33",
+      "updated_at": "2020-10-06 09:57:20"
+    },
+    {
+      "uuid": "5058544b2dec514bc4de35d0da6ed619",
+      "title": "arduinoPCB",
+      "filename": "arduinoPCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f2561f0fa47346d3a02d341f9e29ef9e": 1,
+        "6a8cc0d167d04926a8ac5a757ba65780": 2
+      },
+      "BOM": [],
+      "updateTime": 1611090562,
+      "createTime": 1601992195,
+      "histories": [],
+      "created_at": "2020-10-06 09:49:55",
+      "updated_at": "2021-01-19 16:09:22"
+    },
+    {
+      "uuid": "4a59c62b1beea6f68f3c7c4937cd88b4",
+      "puuid": "eade5ec70404a2e26295ee6e1e4bd0a4",
+      "title": "Remote",
+      "filename": "Remote.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "600d2d9b3b1a4a65a0bc5f6b71a0e369": 1,
+        "58f3711fbb854297a091d937ffbe3f52": 1,
+        "f2561f0fa47346d3a02d341f9e29ef9e": 1
+      },
+      "BOM": [],
+      "updateTime": 1613155323,
+      "createTime": 1611774914,
+      "histories": [],
+      "created_at": "2021-01-27 14:15:14",
+      "updated_at": "2021-02-12 13:42:03"
+    }
+  ],
+  "sort": [
+    "9a5c695fa67140a74d7a4142fd6bcb9b",
+    "cbf4ba015d2ce646d112314724cfaf4d"
+  ],
+  "title": "SeniorDesignV2",
+  "foldername": "SeniorDesignV2",
+  "schfilename": "SeniorDesignV2.json",
+  "schfilemtime": 1602781225307
+}
