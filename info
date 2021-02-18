@@ -1,10 +1,10 @@
 {
   "uuid": "eade5ec70404a2e26295ee6e1e4bd0a4",
-  "path": "Offline/SeniorDesignV2",
-  "name": "SeniorDesignV2",
+  "path": "Offline/seniorProjectPCB",
+  "name": "seniorProjectPCB",
   "content": "",
   "created_at": "2020-10-15 10:24:45",
-  "updated_at": "2021-02-18 14:17:19",
+  "updated_at": "2021-02-18 14:19:20",
   "stick": "",
   "documents": [
     {
@@ -570,11 +570,11 @@
         "1a9b494b74c34d3b879eb7f824b3824d": 2
       },
       "BOM": [],
-      "updateTime": 1611090485,
+      "updateTime": 1613675960,
       "createTime": 1601989771,
       "histories": [],
       "created_at": "2020-10-06 09:09:31",
-      "updated_at": "2021-01-19 16:08:05"
+      "updated_at": "2021-02-18 14:19:20"
     },
     {
       "uuid": "2e21222421a27184a019585371846fad",
@@ -655,8 +655,8 @@
     "9a5c695fa67140a74d7a4142fd6bcb9b",
     "cbf4ba015d2ce646d112314724cfaf4d"
   ],
-  "title": "SeniorDesignV2",
-  "foldername": "SeniorDesignV2",
+  "title": "seniorProjectPCB",
+  "foldername": "seniorProjectPCB",
   "schfilename": "SeniorDesignV2.json",
   "schfilemtime": 1602781225307
 }
