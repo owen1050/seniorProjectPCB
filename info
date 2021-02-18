@@ -4,7 +4,7 @@
   "name": "SeniorDesignV2",
   "content": "",
   "created_at": "2020-10-15 10:24:45",
-  "updated_at": "2021-02-12 13:42:03",
+  "updated_at": "2021-02-18 14:17:19",
   "stick": "",
   "documents": [
     {
@@ -620,15 +620,14 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "f2561f0fa47346d3a02d341f9e29ef9e": 1,
-        "6a8cc0d167d04926a8ac5a757ba65780": 2
+        "f2561f0fa47346d3a02d341f9e29ef9e": 1
       },
       "BOM": [],
-      "updateTime": 1611090562,
+      "updateTime": 1613675839,
       "createTime": 1601992195,
       "histories": [],
       "created_at": "2020-10-06 09:49:55",
-      "updated_at": "2021-01-19 16:09:22"
+      "updated_at": "2021-02-18 14:17:19"
     },
     {
       "uuid": "4a59c62b1beea6f68f3c7c4937cd88b4",
