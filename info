@@ -4,7 +4,7 @@
   "name": "seniorProjectPCB",
   "content": "",
   "created_at": "2020-10-15 10:24:45",
-  "updated_at": "2021-02-18 14:28:58",
+  "updated_at": "2021-02-18 17:01:43",
   "stick": "",
   "documents": [
     {
@@ -589,11 +589,11 @@
         "6a8cc0d167d04926a8ac5a757ba65780": 1
       },
       "BOM": [],
-      "updateTime": 1611701595,
+      "updateTime": 1613676573,
       "createTime": 1601990197,
       "histories": [],
       "created_at": "2020-10-06 09:16:37",
-      "updated_at": "2021-01-26 17:53:15"
+      "updated_at": "2021-02-18 14:29:33"
     },
     {
       "uuid": "17ceff460bc9ce84127aae15fa1e108e",
@@ -623,11 +623,11 @@
         "f2561f0fa47346d3a02d341f9e29ef9e": 1
       },
       "BOM": [],
-      "updateTime": 1613676538,
+      "updateTime": 1613685703,
       "createTime": 1601992195,
       "histories": [],
       "created_at": "2020-10-06 09:49:55",
-      "updated_at": "2021-02-18 14:28:58"
+      "updated_at": "2021-02-18 17:01:43"
     },
     {
       "uuid": "4a59c62b1beea6f68f3c7c4937cd88b4",
@@ -644,11 +644,11 @@
         "f2561f0fa47346d3a02d341f9e29ef9e": 1
       },
       "BOM": [],
-      "updateTime": 1613155323,
+      "updateTime": 1613685623,
       "createTime": 1611774914,
       "histories": [],
       "created_at": "2021-01-27 14:15:14",
-      "updated_at": "2021-02-12 13:42:03"
+      "updated_at": "2021-02-18 17:00:23"
     }
   ],
   "sort": [
