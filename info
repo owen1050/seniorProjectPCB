@@ -4,7 +4,7 @@
   "name": "seniorProjectPCB",
   "content": "",
   "created_at": "2020-10-15 10:24:45",
-  "updated_at": "2021-02-18 14:19:20",
+  "updated_at": "2021-02-18 14:28:58",
   "stick": "",
   "documents": [
     {
@@ -570,11 +570,11 @@
         "1a9b494b74c34d3b879eb7f824b3824d": 2
       },
       "BOM": [],
-      "updateTime": 1613675960,
+      "updateTime": 1613676538,
       "createTime": 1601989771,
       "histories": [],
       "created_at": "2020-10-06 09:09:31",
-      "updated_at": "2021-02-18 14:19:20"
+      "updated_at": "2021-02-18 14:28:58"
     },
     {
       "uuid": "2e21222421a27184a019585371846fad",
@@ -623,11 +623,11 @@
         "f2561f0fa47346d3a02d341f9e29ef9e": 1
       },
       "BOM": [],
-      "updateTime": 1613675839,
+      "updateTime": 1613676538,
       "createTime": 1601992195,
       "histories": [],
       "created_at": "2020-10-06 09:49:55",
-      "updated_at": "2021-02-18 14:17:19"
+      "updated_at": "2021-02-18 14:28:58"
     },
     {
       "uuid": "4a59c62b1beea6f68f3c7c4937cd88b4",
